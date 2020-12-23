@@ -1,3 +1,8 @@
+
+
+
+
+
 candle
 ======
 
@@ -10,3 +15,10 @@ Video:
 https://www.youtube.com/watch?v=po6SjSLbFRk
 
 ![schematic](schem.png)
+
+
+
+### xiaolaba, test, not done, switched to other code deisgn, it works,
+https://youtu.be/tnwUr58mNY0   
+
+https://youtu.be/DdojUKW_8R4 
